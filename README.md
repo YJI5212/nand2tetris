@@ -2,4 +2,4 @@
 Courseraのコース  
   https://www.coursera.org/learn/build-a-computer  
 nand2tetrisの解答の一例です。  
-
+<img width="1096" alt="Coursera xxxx" src="https://user-images.githubusercontent.com/60774986/121383108-280ffd00-c982-11eb-8b18-3f4681ad6e39.png">
